@@ -292,6 +292,22 @@ skill_type: 通用
 - `templates/72h-action-plan.md` - 72 小时行动计划
 - `templates/first-gold-tracker.md` - 第一桶金追踪表
 
+## 💡 使用建议
+
+**发现赚钱机会：**
+1. 填写 opportunity-list.md
+2. 盘点技能/兴趣/资源
+3. 选定 1 个机会
+
+**72 小时行动：**
+1. 打印 72h-action-plan.md
+2. 设定 3 天目标
+3. 严格执行，完成后打勾
+
+**追踪进度：**
+1. 每月更新 first-gold-tracker.md
+2. 庆祝每个里程碑
+
 ---
 
 ## 📝 变更日志

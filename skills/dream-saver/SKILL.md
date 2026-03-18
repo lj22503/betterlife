@@ -263,7 +263,19 @@ skill_type: 通用
 
 - `templates/dream-list.md` - 梦想清单模板
 - `templates/savings-tracker.md` - 储蓄追踪表
-- `calculators/dream-timeline.py` - 梦想时间线计算器
+- `calculators/dream-timeline.sh` - 梦想时间线计算器
+
+## 💡 使用建议
+
+**儿童使用：**
+1. 打印梦想清单模板
+2. 为每个梦想准备储蓄罐
+3. 每周记录储蓄进度
+
+**成人使用：**
+1. 用 dream-timeline.sh 计算时间线
+2. 设置自动转账
+3. 每月 review 进度
 
 ---
 

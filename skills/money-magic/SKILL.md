@@ -260,9 +260,28 @@ skill_type: 通用
 
 ## 🔗 相关文件
 
-- `calculators/rule-of-72.py` - 72 公式计算器
-- `calculators/compound-interest.py` - 复利计算器
+- `calculators/rule-of-72.sh` - 72 公式计算器
+- `calculators/compound-interest.sh` - 复利计算器（与 golden-goose 共用）
 - `templates/inflation-warning.md` - 通胀警示模板
+
+## 💡 使用建议
+
+**计算翻倍时间：**
+```bash
+./calculators/rule-of-72.sh 8 double
+# 年化 8%，9 年翻倍
+```
+
+**计算贬值时间：**
+```bash
+./calculators/rule-of-72.sh 3 halve
+# 通胀 3%，24 年贬值一半
+```
+
+**填写通胀警示：**
+1. 打印 inflation-warning.md
+2. 填入当前金额和通胀率
+3. 贴在显眼位置提醒自己
 
 ---
 

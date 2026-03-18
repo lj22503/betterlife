@@ -273,9 +273,26 @@ skill_type: 通用
 
 ## 🔗 相关文件
 
-- `calculators/compound-interest.py` - 复利计算器
-- `calculators/freedom-path.py` - 财务自由路径
+- `calculators/compound-interest.sh` - 复利计算器
+- `calculators/freedom-path.sh` - 财务自由路径
 - `templates/goose-account.md` - 金鹅账户模板
+
+## 💡 使用建议
+
+**开设金鹅账户：**
+1. 打印 goose-account.md
+2. 开设独立投资账户
+3. 设置每月自动定投
+
+**计算复利：**
+```bash
+./calculators/compound-interest.sh 10000 8 30
+```
+
+**计算财务自由路径：**
+```bash
+./calculators/freedom-path.sh 10000 500000 20000 8
+```
 
 ---
 

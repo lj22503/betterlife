@@ -294,6 +294,18 @@ skill_type: 通用
 - `templates/weekly-review.md` - 周回顾模板
 - `templates/fear-overcome-card.md` - 恐惧克服卡片
 
+## 💡 使用建议
+
+**每日练习：**
+1. 睡前花 5 分钟记录
+2. 任何小事都可以
+3. 坚持至少 21 天
+
+**恐惧克服：**
+1. 打开 fear-overcome-card.md
+2. 从日记中找到 3 件成功案例
+3. 告诉自己：我能行
+
 ---
 
 ## 📝 变更日志
