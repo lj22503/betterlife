@@ -1,31 +1,211 @@
-# Better Life Skills 🌟
+# BetterLife Skills 🌟
 
-**基于《最优解人生》（Die With Zero）的 AI 技能套件**
+**帮助普通人更好地处理与金钱的关系**
 
 ---
 
 ## 📖 简介
 
-这套技能帮助你从"积累财富"转向"投资体验"，最大化人生充实感。
+BetterLife 是一个完整的财商教育与理财实践 Skill 套件，包含 **10 套主题、50 个技能**，覆盖从财商启蒙到人生意义的全生命周期。
 
 **核心理念：**
-- 💡 **投资体验** —— 体验随时间增值（回忆红利）
-- 💰 **死前归零** —— 钱尽其用，身逝之日财富用尽
-- 📈 **财富峰点** —— 45-60 岁是最佳峰点年龄
-- 📅 **人生季节** —— 探索季、积累季、收获季、享受季、沉淀季
-- 👨‍👩‍👧 **家庭同步** —— 子女 26-35 岁是最佳接收年龄
+- 💰 **金钱是工具，人生是目的**
+- 🧠 **思维转变先于技能学习**
+- 📊 **规划→保障→投资→跃迁→意义**
+- 🎯 **让金钱为你服务，而非你为金钱服务**
 
 ---
 
-## 📦 技能列表
+## 🗺️ 6 层能力框架
 
-| 技能 | 用途 | 难度 |
-|------|------|------|
-| [`life-experience-investor`](skills/life-experience-investor/) | 人生体验投资顾问 | ⭐⭐ |
-| [`death-with-zero-planner`](skills/death-with-zero-planner/) | 死前归零规划师 | ⭐⭐⭐ |
-| [`peak-wealth-calculator`](skills/peak-wealth-calculator/) | 财富峰点计算器 | ⭐⭐ |
-| [`life-segmentation-designer`](skills/life-segmentation-designer/) | 人生分段设计师 | ⭐⭐⭐ |
-| [`experience-memory-tracker`](skills/experience-memory-tracker/) | 体验记忆追踪器 | ⭐ |
+```
+                    ┌─────────────────┐
+                    │   第 6 层：意义   │ ← 最优解人生
+                    │  金钱服务于人生  │
+                    └────────┬────────┘
+                             │
+                    ┌────────┴────────┐
+                    │   第 5 层：跃迁   │ ← 24 堂财富课
+                    │  创业/股权致富   │
+                    └────────┬────────┘
+                             │
+                    ┌────────┴────────┐
+                    │   第 4 层：投资   │ ← 回归投资常识 + 涛动周期论
+                    │  让钱为你工作    │
+                    └────────┬────────┘
+                             │
+                    ┌────────┴────────┐
+                    │   第 3 层：保障   │ ← 你的保险指南
+                    │  风险管理        │
+                    └────────┬────────┘
+                             │
+                    ┌────────┴────────┐
+                    │   第 2 层：规划   │ ← 理财就是理生活 + 管好四笔钱 + 要钱还是要生活
+                    │  诊断与目标      │
+                    └────────┬────────┘
+                             │
+                    ┌────────┴────────┐
+                    │   第 1 层：认知   │ ← 穷爸爸富爸爸 + 小狗钱钱
+                    │  思维转变        │
+                    └─────────────────┘
+```
+
+---
+
+## 📚 10 套套件总览
+
+| 套件 | 层级 | 技能数 | 核心理念 | 适合人群 |
+|------|------|--------|----------|----------|
+| [最优解人生](skills/optimal-life-suite/) | 6-意义 | 5 | 死前归零，投资体验 | 所有人 |
+| [24 堂财富课](skills/24-wealth-class/) | 5-跃迁 | 5 | 边际成本，无股权不富 | 创业者 |
+| [回归投资常识](skills/investment-common-sense/) | 4-投资 | 5 | 美林时钟，风格轮动 | 投资者 |
+| [涛动周期论](skills/taodong-cycle/) | 4-投资 | 5 | 康波周期决定财富 | 投资者 |
+| [你的保险指南](skills/insurance-guide/) | 3-保障 | 5 | 先保大人，后保小孩 | 家庭支柱 |
+| [理财就是理生活](skills/licai-life/) | 2-规划 | 5 | 草帽曲线，十大模块 | 所有人 |
+| [管好四笔钱](skills/four-money/) | 2-规划 | 5 | 四笔钱账户体系 | 有收入者 |
+| [要钱还是要生活](skills/your-money-or-your-life/) | 2-规划 | 5 | 金钱=生命能量 | FIRE 追求者 |
+| [穷爸爸富爸爸](skills/rich-dad-poor-dad/) | 1-认知 | 5 | 为钱工作→让钱工作 | 所有人 |
+| [小狗钱钱](skills/xiaogou-qianqian/) | 1-认知 | 5 | 梦想储蓄罐，金鹅账户 | 儿童/青少年 |
+
+**总计：50 个技能**
+
+---
+
+## 🎯 按人生阶段的使用指南
+
+### 🌱 阶段 1：财商启蒙（18 岁前/理财小白）
+
+**推荐套件：**
+1. 小狗钱钱（儿童/青少年）
+2. 穷爸爸富爸爸（成人思维转变）
+
+**学习路径：**
+```
+dream-saver（梦想储蓄罐）
+→ success-diary（成功日记）
+→ golden-goose（金鹅账户）
+→ rich-dad-mindset（思维转换）
+→ asset-liability（资产负债区分）
+```
+
+---
+
+### 🚀 阶段 2：财务诊断与规划（22-35 岁）
+
+**推荐套件：**
+1. 理财就是理生活（状况诊断）
+2. 管好四笔钱（账户配置）
+3. 要钱还是要生活（FIRE 路径）
+
+**学习路径：**
+```
+financial-diagnosis（七大问题诊断）
+→ four-money-buckets（四笔钱配置）
+→ life-energy（实际时薪计算）
+→ enough-calc（足够线计算）
+→ fi-steps（FIRE 九步法）
+```
+
+---
+
+### 🛡️ 阶段 3：保障与风险管理（25-45 岁，家庭支柱）
+
+**推荐套件：**
+- 你的保险指南
+
+**学习路径：**
+```
+family-risk-assessor（风险评估）
+→ insurance-allocator（保险配置）
+→ health-declaring（健康告知）
+→ policy-organizer（保单整理）
+```
+
+---
+
+### 📈 阶段 4：投资与增值（30 岁+，有积蓄）
+
+**推荐套件：**
+1. 回归投资常识（投资策略）
+2. 涛动周期论（周期判断）
+
+**学习路径：**
+```
+asset-rotation（大类资产轮动）
+→ portfolio-builder（组合构建）
+→ kondratieff-wave（康波周期）
+→ asset-allocation（资产配置）
+```
+
+---
+
+### 💼 阶段 5：创业与财富跃迁（30 岁+，有想法）
+
+**推荐套件：**
+- 24 堂财富课
+
+**学习路径：**
+```
+business-model-analyzer（商业模式）
+→ scale-advantage（规模优势）
+→ equity-wealth（股权致富）
+→ global-entrepreneur（全球化创业）
+```
+
+---
+
+### 🌟 阶段 6：人生意义与财务自由（任何年龄）
+
+**推荐套件：**
+1. 要钱还是要生活（FIRE 完成）
+2. 最优解人生（人生意义）
+
+**学习路径：**
+```
+crossover-point（交叉点追踪）
+→ frugal-living（节俭生活）
+→ life-experience-investor（体验投资）
+→ death-with-zero-planner（死前归零）
+```
+
+---
+
+## 🔍 按需求场景的快速索引
+
+| 需求 | 推荐套件 | 核心技能 |
+|------|----------|----------|
+| 月光族想存钱 | 穷爸爸富爸爸 + 小狗钱钱 | rat-race, dream-saver |
+| 有积蓄想投资 | 管好四笔钱 + 回归投资常识 | four-money-buckets, portfolio-builder |
+| 有家庭想保障 | 你的保险指南 | family-risk-assessor, insurance-allocator |
+| 想财务自由 | 要钱还是要生活 | enough-calc, fi-steps, crossover-point |
+| 想创业致富 | 24 堂财富课 | business-model-analyzer, equity-wealth |
+| 孩子财商教育 | 小狗钱钱 | dream-saver, success-diary, cashflow-game |
+
+---
+
+## 📁 项目结构
+
+```
+betterlife/
+├── README.md                          # 本文件
+├── LICENSE                            # MIT License
+├── MONEY_RELATIONS_GUIDE.md           # 人与金钱关系完整指南
+├── skills/
+│   ├── optimal-life-suite/            # 最优解人生套件
+│   ├── 24-wealth-class/               # 24 堂财富课套件
+│   ├── investment-common-sense/       # 回归投资常识套件
+│   ├── taodong-cycle/                 # 涛动周期论套件
+│   ├── insurance-guide/               # 你的保险指南套件
+│   ├── licai-life/                    # 理财就是理生活套件
+│   ├── four-money/                    # 管好四笔钱套件
+│   ├── your-money-or-your-life/       # 要钱还是要生活套件
+│   ├── rich-dad-poor-dad/             # 穷爸爸富爸爸套件
+│   └── xiaogou-qianqian/              # 小狗钱钱套件
+└── docs/
+    ├── theory/                        # 理论文档
+    ├── examples/                      # 使用示例
+    └── faq/                           # 常见问题
+```
 
 ---
 
@@ -43,108 +223,91 @@ cd betterlife
 
 ### 使用示例
 
-#### 1. 规划年度体验投资
+#### 示例 1：财商启蒙
 
 ```
-@ant 帮我规划 2026 年的体验投资
+@ant 我想转变理财思维，从雇员思维到投资者思维
+```
+
+#### 示例 2：财务诊断
+
+```
+@ant 帮我诊断财务状况
 
 信息：
 - 年龄：35 岁
-- 健康：8/10
-- 年度体验预算：5 万元
-- 兴趣：旅行、摄影、滑雪
-- 人生阶段：已婚，孩子 5 岁
+- 月收入：3 万
+- 月支出：1 万
+- 资产：150 万
+- 负债：20 万
 ```
 
-#### 2. 评估财富峰点
+#### 示例 3：保险配置
 
 ```
-@ant 我 50 岁了，是否需要继续积累财富？
+@ant 帮我规划家庭保险
 
 信息：
-- 年龄：50 岁
-- 年生活费：50 万
-- 当前资产：3000 万
-- 年收入：200 万
+- 丈夫：35 岁，年收入 50 万
+- 妻子：33 岁，年收入 20 万
+- 孩子：5 岁
+- 房贷：800 万
 ```
 
-#### 3. 家庭体验同步
+#### 示例 4：投资配置
 
 ```
-@ant 我想带孩子环游世界，什么时候最合适？
+@ant 帮我构建投资组合
 
 信息：
-- 孩子年龄：8 岁
-- 家庭预算：50 万
-- 时间：2 周
+- 年龄：35 岁
+- 可投资资金：100 万
+- 风险承受：中等
+- 投资期限：10 年
+```
+
+#### 示例 5：财务自由规划
+
+```
+@ant 我需要多少钱才能财务自由？
+
+信息：
+- 月支出：1 万
+- 当前储蓄：50 万
+- 年储蓄：20 万
 ```
 
 ---
 
-## 📚 核心理论
-
-### 《最优解人生》9 大准则
-
-1. **正面人生体验最大化** —— 花钱买体验比买物品更快乐
-2. **提早开始投资体验** —— 现在就开始，不要等
-3. **以死前归零为目标** —— 钱尽其用，身逝之日财富用尽
-4. **利用所有可用的工具** —— 年金、保险、寿命计算器
-5. **在钱能发挥最大作用时交给子女** —— 26-35 岁是最佳接收年龄
-6. **平衡人生** —— 最佳平衡因人而异，随年龄变化
-7. **将人生视作不同季节** —— 每季都有当季体验
-8. **知道什么时候停止财富增长** —— 45-60 岁是最佳峰点
-9. **在没什么可失去时，冒最大的险** —— 年轻时冒险回报最高
-
----
-
-## 🛠️ 技能结构
+## 📊 技能依赖关系
 
 ```
-betterlife/
-├── README.md                          # 本文件
-├── LICENSE                            # MIT License
-├── skills/
-│   ├── life-experience-investor/      # 人生体验投资顾问
-│   │   ├── SKILL.md                   # 技能文档
-│   │   ├── prompts/                   # 提示词模板
-│   │   ├── templates/                 # 输出模板
-│   │   └── calculators/               # 计算器脚本
-│   ├── death-with-zero-planner/       # 死前归零规划师
-│   ├── peak-wealth-calculator/        # 财富峰点计算器
-│   ├── life-segmentation-designer/    # 人生分段设计师
-│   └── experience-memory-tracker/     # 体验记忆追踪器
-└── docs/
-    ├── theory/                        # 理论文档
-    ├── examples/                      # 使用示例
-    └── faq/                           # 常见问题
-```
-
----
-
-## 📊 技能协作流程
-
-```
-用户需求
-    ↓
-life-experience-investor（体验规划）
-    ↓
-death-with-zero-planner（财务可行性）
-    ↓
-peak-wealth-calculator（时机评估）
-    ↓
-life-segmentation-designer（人生季节分配）
-    ↓
-experience-memory-tracker（记录和追踪）
-```
-
----
-
-## 🧪 测试
-
-```bash
-# 运行测试
-cd skills/life-experience-investor
-python3 calculators/memory-dividend.py
+认知层（必须先学）
+├── 穷爸爸富爸爸套件
+└── 小狗钱钱套件
+        │
+        ▼
+规划层（建立基础）
+├── 理财就是理生活套件
+├── 管好四笔钱套件
+└── 要钱还是要生活套件
+        │
+        ▼
+保障层（风险管理）
+└── 你的保险指南套件
+        │
+        ▼
+投资层（财富增值）
+├── 回归投资常识套件
+└── 涛动周期论套件
+        │
+        ▼
+跃迁层（财富跃迁）
+└── 24 堂财富课套件
+        │
+        ▼
+意义层（人生意义）
+└── 最优解人生套件
 ```
 
 ---
@@ -152,18 +315,30 @@ python3 calculators/memory-dividend.py
 ## 📝 变更日志
 
 ### v1.0.0 (2026-03-18)
-- ✅ 初始版本发布
-- ✅ 5 个核心技能完成
-- ✅ 文档和示例完善
+- ✅ 10 套套件完成，共 50 个技能
+- ✅ 完整文档和示例
+- ✅ 人与金钱关系指南
+
+**套件列表：**
+1. 最优解人生（5 skills）
+2. 24 堂财富课（5 skills）
+3. 回归投资常识（5 skills）
+4. 涛动周期论（5 skills）
+5. 你的保险指南（5 skills）
+6. 理财就是理生活（5 skills）
+7. 管好四笔钱（5 skills）
+8. 要钱还是要生活（5 skills）
+9. 穷爸爸富爸爸（5 skills）
+10. 小狗钱钱（5 skills）
 
 ---
 
 ## 🔗 相关链接
 
-- **《最优解人生》书籍**: https://www.diewithzerobook.com/
-- **寿命计算器**: https://www.longevityillustrator.org/
-- **活到 100 计算器**: https://www.livingto100.com/
-- **作者博客**: https://github.com/lj22503
+- **GitHub**: https://github.com/lj22503/betterlife
+- **人与金钱关系指南**: [MONEY_RELATIONS_GUIDE.md](MONEY_RELATIONS_GUIDE.md)
+- **技能总数**: 50 个
+- **套件数量**: 10 套
 
 ---
 
@@ -173,31 +348,19 @@ MIT License - 详见 [LICENSE](LICENSE)
 
 ---
 
-## 👥 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-**贡献指南：**
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
----
-
 ## 💡 使用建议
 
 **适合人群：**
-- 有一定财富积累，想优化人生体验的人
-- 纠结是否继续积累财富的人
-- 想规划家庭共同体验的人
-- 希望"钱尽其用"的人
+- 想建立正确金钱观的人
+- 想系统学习理财的人
+- 想实现财务自由的人
+- 想让孩子财商启蒙的家长
 
 **不适合人群：**
-- 财富尚未达到生存阈值的人
-- 需要专业财务/医疗/法律建议的人
+- 想快速致富的人
+- 不想学习只想听代码的人
+- 需要专业财务/医疗/法律建议的人（请咨询专业人士）
 
 ---
 
-*投资体验，收获回忆红利。死前归零，人生尽兴。* 🌟
+*金钱是工具，人生是目的。让金钱为你服务，而非你为金钱服务。* 🌟
