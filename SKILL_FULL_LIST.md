@@ -1,8 +1,9 @@
 # BetterLife 技能完整列表
 
-**生成时间：** 2026-03-19 08:30  
-**技能总数：** 79 个  
-**模板总数：** 99 个
+**生成时间：** 2026-03-19 10:00  
+**技能总数：** 129 个  
+**模板总数：** 102 个  
+**套件分类：** 24 个
 
 ---
 
@@ -129,20 +130,162 @@
 
 ---
 
-## 统计汇总
+## 套件技能列表
 
-| 类别 | 技能数 | 占比 |
-|------|--------|------|
-| 人与金钱 | 18 | 22.8% |
-| 人与工作 | 17 | 21.5% |
-| 投资配置 | 11 | 13.9% |
-| 财务管理 | 5 | 6.3% |
-| 创业教育 | 5 | 6.3% |
-| 认知成长 | 5 | 6.3% |
-| 保险保障 | 5 | 6.3% |
-| 其他技能 | 13 | 16.5% |
-| **总计** | **79** | **100%** |
+### 疗愈饮食套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| insulin-resistance ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/healing-diet-suite/insulin-resistance/SKILL.md) |
+| sugar-detox ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/healing-diet-suite/sugar-detox/SKILL.md) |
+| healthy-fat-guide ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/healing-diet-suite/healthy-fat-guide/SKILL.md) |
+| gut-healing ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/healing-diet-suite/gut-healing/SKILL.md) |
+| lectin-avoidance ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/healing-diet-suite/lectin-avoidance/SKILL.md) |
+
+### 断食实践套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| intermittent-fasting ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/fasting-practice-suite/intermittent-fasting/SKILL.md) |
+| autophagy-tracker ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/fasting-practice-suite/autophagy-tracker/SKILL.md) |
+| fasting-safety ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/fasting-practice-suite/fasting-safety/SKILL.md) |
+| refeeding-guide ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/fasting-practice-suite/refeeding-guide/SKILL.md) |
+| fasting-planner ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/fasting-practice-suite/fasting-planner/SKILL.md) |
+
+### 锻炼科学套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| exercise-evolution ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/exercise-science-suite/exercise-evolution/SKILL.md) |
+| weekly-150min ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/exercise-science-suite/weekly-150min/SKILL.md) |
+| disease-exercise-prescription ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/exercise-science-suite/disease-exercise-prescription/SKILL.md) |
+| age-specific-exercise ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/exercise-science-suite/age-specific-exercise/SKILL.md) |
+| exercise-motivation ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/exercise-science-suite/exercise-motivation/SKILL.md) |
+
+### 好睡科学套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| sleep-cycles ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/sleep-science-suite/sleep-cycles/SKILL.md) |
+| circadian-rhythm ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/sleep-science-suite/circadian-rhythm/SKILL.md) |
+| sleep-breathing ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/sleep-science-suite/sleep-breathing/SKILL.md) |
+| insomnia-mindset ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/sleep-science-suite/insomnia-mindset/SKILL.md) |
+| sleep-environment ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/sleep-science-suite/sleep-environment/SKILL.md) |
+
+### 免疫修复套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| immune-balance ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/immune-repair-suite/immune-balance/SKILL.md) |
+| anti-inflammatory-diet ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/immune-repair-suite/anti-inflammatory-diet/SKILL.md) |
+| stress-adrenal ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/immune-repair-suite/stress-adrenal/SKILL.md) |
+| gut-immune ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/immune-repair-suite/gut-immune/SKILL.md) |
+| liver-detox ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/immune-repair-suite/liver-detox/SKILL.md) |
+
+### 健康长寿套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| aging-markers ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/longevity-suite/aging-markers/SKILL.md) |
+| autophagy-activator ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/longevity-suite/autophagy-activator/SKILL.md) |
+| dna-mitochondria-repair ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/longevity-suite/dna-mitochondria-repair/SKILL.md) |
+| nutrient-sensing ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/longevity-suite/nutrient-sensing/SKILL.md) |
+| longevity-lifestyle ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/longevity-suite/longevity-lifestyle/SKILL.md) |
+
+### 原子习惯套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| identity-habits ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/atomic-habits-suite/identity-habits/SKILL.md) |
+| habit-loop ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/atomic-habits-suite/habit-loop/SKILL.md) |
+| environment-design ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/atomic-habits-suite/environment-design/SKILL.md) |
+| two-minute-rule ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/atomic-habits-suite/two-minute-rule/SKILL.md) |
+| habit-tracking ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/atomic-habits-suite/habit-tracking/SKILL.md) |
+
+### 真原医基础套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| raw-food-guide ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/true-original-medicine-suite/raw-food-guide/SKILL.md) |
+| chlorophyll-therapy ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/true-original-medicine-suite/chlorophyll-therapy/SKILL.md) |
+| enzyme-nutrition ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/true-original-medicine-suite/enzyme-nutrition/SKILL.md) |
+| alkaline-balance ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/true-original-medicine-suite/alkaline-balance/SKILL.md) |
+| colon-health ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/true-original-medicine-suite/colon-health/SKILL.md) |
+
+### 肠活生活套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| gut-flora-balance ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/gut-health-suite/gut-flora-balance/SKILL.md) |
+| short-chain-fatty-acid ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/gut-health-suite/short-chain-fatty-acid/SKILL.md) |
+| serotonin-booster ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/gut-health-suite/serotonin-booster/SKILL.md) |
+| glp1-activator ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/gut-health-suite/glp1-activator/SKILL.md) |
+| bowel-movement ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/gut-health-suite/bowel-movement/SKILL.md) |
+
+### 抗炎生活套件（5 个）
+
+| 技能 | GitHub 地址 |
+|------|----------|
+| inflammation-assessment ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/anti-inflammatory-suite/inflammation-assessment/SKILL.md) |
+| omega-balance ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/anti-inflammatory-suite/omega-balance/SKILL.md) |
+| antioxidant-diet ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/anti-inflammatory-suite/antioxidant-diet/SKILL.md) |
+| anti-inflammatory-lifestyle ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/anti-inflammatory-suite/anti-inflammatory-lifestyle/SKILL.md) |
+| visceral-fat-reducer ✅ | [链接](https://github.com/lj22503/betterlife/blob/main/skills/anti-inflammatory-suite/visceral-fat-reducer/SKILL.md) |
 
 ---
 
-*最后更新：2026-03-19*
+## 统计汇总
+
+### 按类别统计
+
+| 类别 | 技能数 | 占比 |
+|------|--------|------|
+| 人与金钱 | 18 | 14.0% |
+| 人与工作 | 17 | 13.2% |
+| 投资配置 | 11 | 8.5% |
+| 其他技能 | 13 | 10.1% |
+| 财务管理 | 5 | 3.9% |
+| 创业教育 | 5 | 3.9% |
+| 认知成长 | 5 | 3.9% |
+| 保险保障 | 5 | 3.9% |
+| 疗愈饮食 | 5 | 3.9% |
+| 断食实践 | 5 | 3.9% |
+| 锻炼科学 | 5 | 3.9% |
+| 好睡科学 | 5 | 3.9% |
+| 免疫修复 | 5 | 3.9% |
+| 健康长寿 | 5 | 3.9% |
+| 原子习惯 | 5 | 3.9% |
+| 真原医基础 | 5 | 3.9% |
+| 肠活生活 | 5 | 3.9% |
+| 抗炎生活 | 5 | 3.9% |
+| **总计** | **129** | **100%** |
+
+### 按套件类型统计
+
+| 类型 | 套件数 | 技能数 |
+|------|--------|--------|
+| 原有独立技能 | - | 79 |
+| 套件技能 | 12 | 50 |
+| **总计** | **12 套件** | **129** |
+
+---
+
+## 套件索引
+
+| 套件名称 | 技能数 | 核心理念 | 基于书籍 |
+|----------|--------|----------|----------|
+| 疗愈饮食套件 | 5 | 胰岛素阻抗、断糖、健康脂肪 | 《疗愈的饮食与断食》 |
+| 断食实践套件 | 5 | 间歇性断食、自噬作用 | 《疗愈的饮食与断食》 |
+| 锻炼科学套件 | 5 | 每周 150 分钟、疾病运动处方 | 《锻炼》 |
+| 好睡科学套件 | 5 | 睡眠周期、生物钟、鼻呼吸 | 《绝佳时间》《睡觉》《好睡》 |
+| 免疫修复套件 | 5 | 四大根源修复免疫系统 | 《免疫功能 90 天复原方案》 |
+| 健康长寿套件 | 5 | 10 大衰老标志、自噬激活 | 《健康长寿：延缓衰老的科学与行动》 |
+| 原子习惯套件 | 5 | 身份认同、习惯四步法、环境设计 | 《原子习惯》 |
+| 真原医基础套件 | 5 | 生机饮食、叶绿素、酸碱平衡 | 《真原医》 |
+| 肠活生活套件 | 5 | 肠道菌群、短链脂肪酸、GLP-1 | 《肠活生活》 |
+| 抗炎生活套件 | 5 | 炎症评估、ω-3/ω-6 平衡 | 《抗炎生活》 |
+
+---
+
+*最后更新：2026-03-19 10:00*  
+*GitHub: https://github.com/lj22503/betterlife*
