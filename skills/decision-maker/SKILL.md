@@ -1,11 +1,6 @@
----
 name: decision-maker
-version: 1.0.0
-description: 决策支持者 - OCA 模型和批判性思考
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要决策支持者 - OCA 模型和批判性思考时；当用户提及相关功能时
+skill_type: 通用---
 
 # 决策支持者 🎯
 
@@ -98,3 +93,11 @@ skill_type: 通用
 ---
 
 *更多研究是为了更少决策，更久研究是为了更准决策。* 🎯
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

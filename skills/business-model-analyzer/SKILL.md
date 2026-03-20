@@ -1,11 +1,6 @@
----
 name: business-model-analyzer
-version: 1.0.0
-description: 商业模式分析器 - 分析边际成本与规模效应
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要商业模式分析器 - 分析边际成本与规模效应时；当用户提及相关功能时
+skill_type: 通用---
 
 # 商业模式分析器 📊
 
@@ -107,3 +102,11 @@ skill_type: 通用
 ---
 
 *商业模式决定财富上限。* 📊
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

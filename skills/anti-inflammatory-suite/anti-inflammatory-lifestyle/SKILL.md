@@ -1,11 +1,6 @@
----
 name: anti-inflammatory-lifestyle
-version: 1.0.0
-description: 抗炎生活方式 - 全方位抗炎策略
-author: 燃冰 + 小蚂蚁
-created: 2026-03-19
-skill_type: 通用
----
+description: ［何时使用］当用户需要抗炎生活方式 - 全方位抗炎策略时；当用户提及相关功能时
+skill_type: 通用---
 
 # 抗炎生活方式 🧘
 
@@ -323,3 +318,11 @@ skill_type: 通用
 ---
 
 *消除肥胖及压力，避免体内炎症及闷烧。* 🧘
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

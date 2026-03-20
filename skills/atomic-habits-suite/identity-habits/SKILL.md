@@ -1,12 +1,6 @@
----
 name: identity-habits
-version: 1.0.0
 description: ［何时使用］当用户想培养习惯但缺乏动力、反复失败时；当用户需要从身份层面而非结果层面改变时；当用户说"我想成为 XX 样的人"时
-author: 燃冰 + 小蚂蚁
-created: 2026-03-19
-skill_type: 通用
-related_skills: [habit-loop, two-minute-rule, habit-tracking]
----
+related_skills: [habit-loop, two-minute-rule, habit-tracking]---
 
 # 身份认同习惯 🎭
 
@@ -427,3 +421,11 @@ related_skills: [habit-loop, two-minute-rule, habit-tracking]
 ---
 
 *改变你是谁最实际的方法就是改变你所做的。每个习惯不仅会得到结果，还会教会你更重要的事情：信任自己。* 🎭
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

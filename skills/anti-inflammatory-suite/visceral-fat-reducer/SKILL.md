@@ -1,11 +1,6 @@
----
 name: visceral-fat-reducer
-version: 1.0.0
-description: 内脏脂肪减少 - 消除炎症温床
-author: 燃冰 + 小蚂蚁
-created: 2026-03-19
-skill_type: 通用
----
+description: ［何时使用］当用户需要内脏脂肪减少 - 消除炎症温床时；当用户提及相关功能时
+skill_type: 通用---
 
 # 内脏脂肪减少 🎯
 
@@ -370,3 +365,11 @@ skill_type: 通用
 ---
 
 *肥胖者的脂肪组织，将持续分泌有害物质。* 🎯
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

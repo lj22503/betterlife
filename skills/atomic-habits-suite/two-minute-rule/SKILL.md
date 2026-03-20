@@ -1,12 +1,6 @@
----
 name: two-minute-rule
-version: 1.0.0
 description: ［何时使用］当用户拖延严重无法开始行动时；当用户说"任务太大"时；当用户完美主义导致瘫痪时；当需要降低启动阻力时
-author: 燃冰 + 小蚂蚁
-created: 2026-03-19
-skill_type: 通用
-related_skills: [habit-loop, identity-habits, habit-tracking]
----
+related_skills: [habit-loop, identity-habits, habit-tracking]---
 
 # 两分钟规则 ⏱️
 
@@ -448,3 +442,11 @@ related_skills: [habit-loop, identity-habits, habit-tracking]
 ---
 
 *你会发现几乎任何习惯都可以缩减为两分钟的版本。关键是先开始，再完善。* ⏱️
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

@@ -1,11 +1,6 @@
----
 name: career-matcher
-version: 1.0.0
-description: 职业匹配器 - 基于 MBTI 的人格职业匹配
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要职业匹配器 - 基于 MBTI 的人格职业匹配时；当用户提及相关功能时
+skill_type: 通用---
 
 # 职业匹配器 💼
 
@@ -107,3 +102,11 @@ skill_type: 通用
 ---
 
 *了解人格差异，找到适合的职业。* 💼
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

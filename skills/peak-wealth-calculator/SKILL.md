@@ -1,11 +1,6 @@
----
 name: peak-wealth-calculator
-version: 1.0.0
-description: 财富峰点计算器 - 确定最佳财富峰点年龄
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要财富峰点计算器 - 确定最佳财富峰点年龄时；当用户提及相关功能时
+skill_type: 通用---
 
 # 财富峰点计算器 📈
 
@@ -94,3 +89,11 @@ skill_type: 通用
 ---
 
 *知道何时停止积累，开始享受。* 📈
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

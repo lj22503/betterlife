@@ -1,11 +1,6 @@
----
 name: fi-steps
-version: 1.0.0
-description: FIRE 九步法指导器 - 9 个步骤实现财务独立
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要FIRE 九步法指导器 - 9 个步骤实现财务独立时；当用户提及相关功能时
+skill_type: 通用---
 
 # FIRE 九步法指导器 🚀
 
@@ -83,3 +78,11 @@ skill_type: 通用
 ---
 
 *财务自由不是终点，是人生的新起点。* 🚀
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

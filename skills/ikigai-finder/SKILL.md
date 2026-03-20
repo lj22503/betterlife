@@ -1,11 +1,6 @@
----
 name: ikigai-finder
-version: 1.0.0
-description: 人生意义发现器 - 找到你的 Ikigai (生存意义)
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要人生意义发现器 - 找到你的 Ikigai (生存意义)时；当用户提及相关功能时
+skill_type: 通用---
 
 # 人生意义发现器 🎯
 
@@ -69,3 +64,11 @@ skill_type: 通用
 ---
 
 *找到你的人生意义，活出真实的自己。* 🎯
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

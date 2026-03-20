@@ -1,11 +1,6 @@
----
 name: inflammation-assessment
-version: 1.0.0
-description: 炎症评估 - 超敏 CRP 检测与解读
-author: 燃冰 + 小蚂蚁
-created: 2026-03-19
-skill_type: 通用
----
+description: ［何时使用］当用户需要炎症评估 - 超敏 CRP 检测与解读时；当用户提及相关功能时
+skill_type: 通用---
 
 # 炎症评估 🔥
 
@@ -277,3 +272,11 @@ C 反应蛋白（C-reactive protein）
 ---
 
 *能否提早抑制慢性炎症，将决定你一生是否长寿健康。* 🔥
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |

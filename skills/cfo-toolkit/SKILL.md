@@ -1,11 +1,6 @@
----
 name: cfo-toolkit
-version: 1.0.0
-description: CFO 工具速查手册 - 从总账到总监的必备工具
-author: 燃冰 + 小蚂蚁
-created: 2026-03-18
-skill_type: 通用
----
+description: ［何时使用］当用户需要CFO 工具速查手册 - 从总账到总监的必备工具时；当用户提及相关功能时
+skill_type: 通用---
 
 # CFO 工具速查手册 📊
 
@@ -151,3 +146,11 @@ skill_type: 通用
 ---
 
 *用财务的眼，把控价值方向。* 📊
+---
+
+## 🔧 故障排查
+
+| 问题 | 检查项 |
+|------|--------|
+| 不触发 | description 是否包含触发词？ |
+| 运行失败 | 脚本有执行权限吗？(`chmod +x`) |
