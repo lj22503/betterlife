@@ -49,6 +49,11 @@ BetterLife 是一个完整的财商教育与理财实践 Skill 套件，包含 *
                     ┌────────┴────────┐
                     │   第 1 层：认知   │ ← 穷爸爸富爸爸 + 小狗钱钱
                     │  思维转变        │
+                    └────────┬────────┘
+                             │
+                    ┌────────┴────────┐
+                    │ problem-mapper  │ ← 元技能（跨层决策工具）
+                    │  人生重大问题决策  │
                     └─────────────────┘
 ```
 
@@ -183,6 +188,9 @@ crossover-point（交叉点追踪）
 
 | 需求 | 推荐套件 | 核心技能 |
 |------|----------|----------|
+| 人生重大决策 | problem-mapper + 最优解人生 | problem-mapper, death-with-zero-planner |
+| 职业转型困境 | problem-mapper + 职业生涯规划 | problem-mapper, career-decision |
+| 投资配置决策 | problem-mapper + 回归投资常识 | problem-mapper, portfolio-builder |
 | 月光族想存钱 | 穷爸爸富爸爸 + 小狗钱钱 | rat-race, dream-saver |
 | 有积蓄想投资 | 管好四笔钱 + 回归投资常识 | four-money-buckets, portfolio-builder |
 | 有家庭想保障 | 你的保险指南 | family-risk-assessor, insurance-allocator |
@@ -317,7 +325,16 @@ cd betterlife
         ▼
 意义层（人生意义）
 └── 最优解人生套件
+        │
+        ▼
+元技能（跨层决策）
+└── problem-mapper（人生重大问题决策）
 ```
+
+**problem-mapper 使用说明：**
+- 在任意层级遇到重大决策时调用
+- 帮助定义问题、设定成功标准、识别风险
+- 输出问题树报告，作为后续技能输入的优化依据
 
 ---
 
