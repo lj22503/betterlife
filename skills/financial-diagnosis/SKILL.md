@@ -1,10 +1,11 @@
 ---
 name: financial-diagnosis
 version: 1.0.0
-description: 财务状况诊断器 - 七大问题法分析财务状况
+description: ［何时使用］当用户需要财务状况诊断器 - 七大问题法分析财务状况时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 财务状况诊断器 📊

@@ -1,6 +1,11 @@
 ---
 name: silence-voice-checker
-description: ［何时使用］当用户想确定该开口时没有开口时；当用户说"沉默发声检查器"时；当需要沉默发声检查器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想确定该开口时没有开口时；当用户说"沉默发声检查器"时；当需要沉默发声检查器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 沉默发声检查器 🔍

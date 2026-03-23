@@ -1,6 +1,11 @@
 ---
 name: habit-loop
-description: ［何时使用］当用户需要习惯循环四步法（提示/渴求/反应/奖励）时；当用户说"想养成习惯""戒不掉坏习惯"时；当需要行为设计指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要习惯循环四步法（提示/渴求/反应/奖励）时；当用户说"想养成习惯""戒不掉坏习惯"时；当需要行为设计指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 习惯循环四步法 🔄

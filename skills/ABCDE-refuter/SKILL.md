@@ -1,6 +1,11 @@
 ---
 name: ABCDE-refuter
-description: ［何时使用］当用户想学习乐观技术时；当用户说"我想反驳消极想法""ABCDE 方法"时；当需要 ABCDE 反驳技术时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想学习乐观技术时；当用户说"我想反驳消极想法""ABCDE 方法"时；当需要 ABCDE 反驳技术时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # ABCDE 反驳技术器 🛡️

@@ -1,6 +1,11 @@
 ---
 name: other-trust-builder
-description: ［何时使用］当用户难以信任别人时；当用户说"我不敢相信别人""怕被背叛"时；当需要建立他者信赖指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户难以信任别人时；当用户说"我不敢相信别人""怕被背叛"时；当需要建立他者信赖指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 他者信赖构建器 🤝

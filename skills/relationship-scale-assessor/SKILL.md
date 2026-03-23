@@ -1,6 +1,11 @@
 ---
 name: relationship-scale-assessor
-description: ［何时使用］当用户想评估关系远近，10 个维度打分时；当用户说"人脉关系量表评估器"时；当需要人脉关系量表评估器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想评估关系远近，10 个维度打分时；当用户说"人脉关系量表评估器"时；当需要人脉关系量表评估器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 人脉关系量表评估器 📏

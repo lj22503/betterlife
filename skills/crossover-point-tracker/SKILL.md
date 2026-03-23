@@ -1,6 +1,11 @@
 ---
 name: crossover-point-tracker
-description: ［何时使用］当用户想追踪投资收入超过支出时；当用户说"交叉点追踪器"时；当需要交叉点追踪器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想追踪投资收入超过支出时；当用户说"交叉点追踪器"时；当需要交叉点追踪器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 交叉点追踪器 📊

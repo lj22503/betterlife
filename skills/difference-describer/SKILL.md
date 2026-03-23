@@ -1,6 +1,11 @@
 ---
 name: difference-describer
-description: ［何时使用］当用户想描述期望结果和实际结果的差距时；当用户说"差异描述器"时；当需要差异描述器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想描述期望结果和实际结果的差距时；当用户说"差异描述器"时；当需要差异描述器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 差异描述器 📊

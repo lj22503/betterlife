@@ -1,10 +1,11 @@
 ---
 name: exercise-motivation
 version: 1.0.0
-description: 锻炼动力管理 - 让锻炼必要而有趣
+description: ［何时使用］当用户需要锻炼动力管理 - 让锻炼必要而有趣时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 锻炼动力管理 💪

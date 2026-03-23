@@ -1,10 +1,11 @@
 ---
 name: money-tree
 version: 1.0.0
-description: 摇钱树构建器 - 基于核心技能创建被动收入
+description: ［何时使用］当用户需要摇钱树构建器 - 基于核心技能创建被动收入时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 摇钱树构建器 🌳

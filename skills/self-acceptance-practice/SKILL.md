@@ -1,6 +1,11 @@
 ---
 name: self-acceptance-practice
-description: ［何时使用］当用户自我否定时；当用户说"我不够好""我有缺点"时；当需要自我接纳指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户自我否定时；当用户说"我不够好""我有缺点"时；当需要自我接纳指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 自我接纳练习器 🌱

@@ -1,6 +1,11 @@
 ---
 name: communication-style-identifier
-description: ［何时使用］当用户想识别老虎/孔雀/猫头鹰/考拉时；当用户说"沟通风格识别器"时；当需要沟通风格识别器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想识别老虎/孔雀/猫头鹰/考拉时；当用户说"沟通风格识别器"时；当需要沟通风格识别器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 沟通风格识别器 🦁

@@ -1,6 +1,11 @@
 ---
 name: mind-mapping-career
-description: ［何时使用］当用户想梳理职业发展路径时；当用户说"职业思维导图"时；当需要职业思维导图指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想梳理职业发展路径时；当用户说"职业思维导图"时；当需要职业思维导图指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 职业思维导图 🗺️

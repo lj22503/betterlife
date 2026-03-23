@@ -1,6 +1,11 @@
 ---
 name: presence-practitioner
-description: ［何时使用］当用户想进入临在状态时；当用户说"想临在""进入当下"时；当需要临在状态指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想进入临在状态时；当用户说"想临在""进入当下"时；当需要临在状态指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 临在状态实践器 🧘

@@ -1,7 +1,12 @@
+---
 name: environment-design
-description: ［何时使用］当用户需要环境设计 - 让好习惯显而易见，坏习惯难以执行时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要环境设计 - 让好习惯显而易见，坏习惯难以执行时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 环境设计 🏠
 
 **基于《原子习惯》**

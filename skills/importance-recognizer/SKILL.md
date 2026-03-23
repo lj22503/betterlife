@@ -1,6 +1,11 @@
 ---
 name: importance-recognizer
-description: ［何时使用］当用户想真心实意地让对方知道他有多重要时；当用户说"重要性认可器"时；当需要重要性认可器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想真心实意地让对方知道他有多重要时；当用户说"重要性认可器"时；当需要重要性认可器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 重要性认可器 🌟

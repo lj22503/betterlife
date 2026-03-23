@@ -1,6 +1,11 @@
 ---
 name: family-risk-assessor
-description: ［何时使用］当用户想评估家庭风险时；当用户说"家庭风险评估器"时；当需要家庭风险评估器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想评估家庭风险时；当用户说"家庭风险评估器"时；当需要家庭风险评估器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 家庭风险评估器 🏠

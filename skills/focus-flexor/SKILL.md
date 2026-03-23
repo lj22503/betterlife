@@ -1,6 +1,11 @@
 ---
 name: focus-flexor
-description: ［何时使用］当用户想保持灵活关注，一次解决一个问题时；当用户说"专注灵活器"时；当需要专注灵活器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想保持灵活关注，一次解决一个问题时；当用户说"专注灵活器"时；当需要专注灵活器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 专注灵活器 🎯

@@ -1,7 +1,12 @@
+---
 name: career-diagnostic
-description: ［何时使用］当用户需要职业健康诊断器 - 4 大黄金问题评估职业价值时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要职业健康诊断器 - 4 大黄金问题评估职业价值时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 职业健康诊断器 🏥
 
 **基于《远见：如何规划职业生涯 3 大阶段》核心理念**

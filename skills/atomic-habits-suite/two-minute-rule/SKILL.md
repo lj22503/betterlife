@@ -1,5 +1,12 @@
+---
 name: two-minute-rule
-description: ［何时使用］当用户拖延严重无法开始行动时；当用户说"任务太大"时；当用户完美主义导致瘫痪时；当需要降低启动阻力时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户拖延严重无法开始行动时；当用户说"任务太大"时；当用户完美主义导致瘫痪时；当需要降低启动阻力时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
+---
 related_skills: [habit-loop, identity-habits, habit-tracking]---
 
 # 两分钟规则 ⏱️

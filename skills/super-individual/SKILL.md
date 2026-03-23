@@ -1,7 +1,12 @@
+---
 name: super-individual
-description: ［何时使用］当用户需要超级个体成长器 - 成为超级个体的关键动作时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要超级个体成长器 - 成为超级个体的关键动作时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 超级个体成长器 🚀
 
 **基于《单干：成为超级个体的 49 个关键动作》核心理念**

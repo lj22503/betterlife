@@ -1,6 +1,11 @@
 ---
 name: breathing-space
-description: ［何时使用］当用户想进行 3 分钟呼吸空间练习时；当用户说"快速正念""呼吸空间"时；当需要 3 分钟呼吸空间引导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想进行 3 分钟呼吸空间练习时；当用户说"快速正念""呼吸空间"时；当需要 3 分钟呼吸空间引导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 3 分钟呼吸空间器 ⏱️

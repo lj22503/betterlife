@@ -1,10 +1,11 @@
 ---
 name: chlorophyll-therapy
 version: 1.0.0
-description: 叶绿素疗法 - 绿色植物的疗愈力量
+description: ［何时使用］当用户需要叶绿素疗法 - 绿色植物的疗愈力量时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 叶绿素疗法 🌿

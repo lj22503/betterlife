@@ -1,10 +1,11 @@
 ---
 name: weekly-150min
 version: 1.0.0
-description: 每周 150 分钟方案 - 科学锻炼基础
+description: ［何时使用］当用户需要每周 150 分钟方案 - 科学锻炼基础时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 每周 150 分钟方案 ⏱️

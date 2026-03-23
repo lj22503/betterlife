@@ -1,6 +1,11 @@
 ---
 name: consciousness-controller
-description: ［何时使用］当用户想控制意识，集中注意力时；当用户说"意识控制器"时；当需要意识控制器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想控制意识，集中注意力时；当用户说"意识控制器"时；当需要意识控制器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 意识控制器 🧠

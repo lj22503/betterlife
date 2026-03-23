@@ -1,6 +1,11 @@
 ---
 name: crucial-conversation-identifier
-description: ［何时使用］当用户想识别观点不同/风险巨大/情绪强烈的对话时；当用户说"关键对话识别器"时；当需要关键对话识别器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想识别观点不同/风险巨大/情绪强烈的对话时；当用户说"关键对话识别器"时；当需要关键对话识别器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 关键对话识别器 🚨

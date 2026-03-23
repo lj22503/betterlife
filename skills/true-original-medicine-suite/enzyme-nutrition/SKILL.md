@@ -1,10 +1,11 @@
 ---
 name: enzyme-nutrition
 version: 1.0.0
-description: 食物酶营养学 - 激活身体自愈力
+description: ［何时使用］当用户需要食物酶营养学 - 激活身体自愈力时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 食物酶营养学 🧬

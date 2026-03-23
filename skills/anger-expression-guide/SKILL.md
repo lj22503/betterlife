@@ -1,6 +1,11 @@
 ---
 name: anger-expression-guide
-description: ［何时使用］当用户不会表达愤怒时；当用户说"我不会生气""我生闷气"时；当需要学习愤怒表达时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户不会表达愤怒时；当用户说"我不会生气""我生闷气"时；当需要学习愤怒表达时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 愤怒表达引导器 😠

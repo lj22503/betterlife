@@ -1,6 +1,11 @@
 ---
 name: decision-maker
-description: ［何时使用］当用户想选择决策方式：命令/顾问/投票/共识时；当用户说"决策制定器"时；当需要决策制定器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想选择决策方式：命令/顾问/投票/共识时；当用户说"决策制定器"时；当需要决策制定器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 决策制定器 📋

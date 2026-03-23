@@ -1,10 +1,11 @@
 ---
 name: left-right-trader
 version: 1.0.0
-description: 左右侧交易策略器 - 定投/网格/趋势追踪
+description: ［何时使用］当用户需要左右侧交易策略器 - 定投/网格/趋势追踪时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 左右侧交易策略器 ⚖️

@@ -1,10 +1,11 @@
 ---
 name: sleep-breathing
 version: 1.0.0
-description: 睡眠呼吸优化 - 鼻呼吸/舌抵上颚/呼吸暂停预防
+description: ［何时使用］当用户需要睡眠呼吸优化 - 鼻呼吸/舌抵上颚/呼吸暂停预防时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 睡眠呼吸优化 🫁

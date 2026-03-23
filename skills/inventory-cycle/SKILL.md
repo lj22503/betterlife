@@ -1,10 +1,11 @@
 ---
 name: inventory-cycle
 version: 1.0.0
-description: 库存周期定位器 - 识别 3 年库存周期，把握短期交易机会
+description: ［何时使用］当用户需要库存周期定位器 - 识别 3 年库存周期，把握短期交易机会时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 库存周期定位器 📦

@@ -1,6 +1,11 @@
 ---
 name: safety-creator
-description: ［何时使用］当用户想创造安全的讨论氛围时；当用户说"安全氛围创造器"时；当需要安全氛围创造器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想创造安全的讨论氛围时；当用户说"安全氛围创造器"时；当需要安全氛围创造器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 安全氛围创造器 🛡️

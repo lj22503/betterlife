@@ -1,7 +1,12 @@
+---
 name: debt-eliminator
-description: ［何时使用］当用户需要债务消除器 - 5 步法消除不良债务时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要债务消除器 - 5 步法消除不良债务时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 债务消除器 💳
 
 **基于《理财就是理生活》核心理念**

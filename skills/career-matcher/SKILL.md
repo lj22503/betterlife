@@ -1,7 +1,12 @@
+---
 name: career-matcher
-description: ［何时使用］当用户需要职业匹配器 - 基于 MBTI 的人格职业匹配时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要职业匹配器 - 基于 MBTI 的人格职业匹配时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 职业匹配器 💼
 
 **基于《天资差异》(MBTI) 核心理念**

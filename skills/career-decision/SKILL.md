@@ -1,7 +1,12 @@
+---
 name: career-decision
-description: ［何时使用］当用户需要生涯决定辅助器 - 做出聪明的生涯选择时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要生涯决定辅助器 - 做出聪明的生涯选择时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 生涯决定辅助器 🎲
 
 **基于《金树人：生涯咨询与辅导》核心理念**

@@ -1,6 +1,11 @@
 ---
 name: inferiority-transformer
-description: ［何时使用］当用户感到自卑时；当用户说"我不如别人""我有自卑感"时；当需要转化自卑感时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户感到自卑时；当用户说"我不如别人""我有自卑感"时；当需要转化自卑感时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 自卑感转换器 🔄

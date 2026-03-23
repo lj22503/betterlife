@@ -1,6 +1,11 @@
 ---
 name: health-declaring-assistant
-description: ［何时使用］当用户想协助健康告知时；当用户说"健康告知助手"时；当需要健康告知助手指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想协助健康告知时；当用户说"健康告知助手"时；当需要健康告知助手指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 健康告知助手 🏥

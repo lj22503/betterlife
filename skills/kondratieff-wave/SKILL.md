@@ -1,7 +1,12 @@
+---
 name: kondratieff-wave
-description: ［何时使用］当用户需要康波周期定位器 - 识别当前康波位置，规划人生财富机会时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要康波周期定位器 - 识别当前康波位置，规划人生财富机会时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 康波周期定位器 🌊
 
 **基于周金涛《涛动周期论》核心理念**

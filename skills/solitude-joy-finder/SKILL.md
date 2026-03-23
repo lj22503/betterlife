@@ -1,6 +1,11 @@
 ---
 name: solitude-joy-finder
-description: ［何时使用］当用户想从独处中找到乐趣时；当用户说"独处之乐发现器"时；当需要独处之乐发现器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想从独处中找到乐趣时；当用户说"独处之乐发现器"时；当需要独处之乐发现器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 独处之乐发现器 🧘

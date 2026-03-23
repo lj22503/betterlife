@@ -1,6 +1,11 @@
 ---
 name: story-controller
-description: ［何时使用］当用户想控制想法，避免受害者/大反派/无助者想法时；当用户说"想法控制器"时；当需要想法控制器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想控制想法，避免受害者/大反派/无助者想法时；当用户说"想法控制器"时；当需要想法控制器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 想法控制器 🧠

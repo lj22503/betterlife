@@ -1,7 +1,12 @@
+---
 name: cashflow-game
-description: ［何时使用］当用户需要现金流游戏指导器 - 通过游戏学习投资理财时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要现金流游戏指导器 - 通过游戏学习投资理财时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 现金流游戏指导器 🎮
 
 **基于《穷爸爸富爸爸》核心理念**

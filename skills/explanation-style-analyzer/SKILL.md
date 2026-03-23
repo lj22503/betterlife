@@ -1,6 +1,11 @@
 ---
 name: explanation-style-analyzer
-description: ［何时使用］当用户想分析自己的解释风格时；当用户说"我习惯怎么解释事情""为什么这样想"时；当需要解释风格分析时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想分析自己的解释风格时；当用户说"我习惯怎么解释事情""为什么这样想"时；当需要解释风格分析时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 解释风格分析器 🔍

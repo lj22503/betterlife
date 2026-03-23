@@ -1,6 +1,11 @@
 ---
 name: financial-iq
-description: ［何时使用］当用户想提升财务知识时；当用户说"财商提升器"时；当需要财商提升器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想提升财务知识时；当用户说"财商提升器"时；当需要财商提升器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 财商提升器 📈

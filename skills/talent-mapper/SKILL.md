@@ -1,10 +1,11 @@
 ---
 name: talent-mapper
 version: 1.0.0
-description: 才能地图绘制器 - 发现你无意识的擅长之事
+description: ［何时使用］当用户需要才能地图绘制器 - 发现你无意识的擅长之事时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 才能地图绘制器 🗺️

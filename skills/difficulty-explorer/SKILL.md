@@ -1,6 +1,11 @@
 ---
 name: difficulty-explorer
-description: ［何时使用］当用户想探索困境时；当用户说"探索痛苦""面对困难情绪"时；当需要困境探索禅修引导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想探索困境时；当用户说"探索痛苦""面对困难情绪"时；当需要困境探索禅修引导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 困境探索禅修器 🔍

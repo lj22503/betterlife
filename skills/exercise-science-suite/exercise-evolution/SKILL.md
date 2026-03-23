@@ -1,10 +1,11 @@
 ---
 name: exercise-evolution
 version: 1.0.0
-description: 锻炼进化视角 - 为什么人类需要锻炼
+description: ［何时使用］当用户需要锻炼进化视角 - 为什么人类需要锻炼时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 锻炼进化视角 🏃

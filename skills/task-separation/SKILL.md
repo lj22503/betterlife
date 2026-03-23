@@ -1,6 +1,11 @@
 ---
 name: task-separation
-description: ［何时使用］当用户在人际关系中感到烦恼时；当用户说"别人干涉我""我想满足别人期待"时；当需要课题分离指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户在人际关系中感到烦恼时；当用户说"别人干涉我""我想满足别人期待"时；当需要课题分离指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 课题分离实践器 ✂️

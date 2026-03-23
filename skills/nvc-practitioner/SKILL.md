@@ -1,6 +1,11 @@
 ---
 name: nvc-practitioner
-description: ［何时使用］当用户想学习非暴力沟通时；当用户说"非暴力沟通""温柔表达""NVC"时；当需要非暴力沟通指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想学习非暴力沟通时；当用户说"非暴力沟通""温柔表达""NVC"时；当需要非暴力沟通指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 非暴力沟通实践器 💗

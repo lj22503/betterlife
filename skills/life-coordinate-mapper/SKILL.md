@@ -1,6 +1,11 @@
 ---
 name: life-coordinate-mapper
-description: ［何时使用］当用户感到自己是受害者时；当用户说"都是别人的错""我不好"时；当需要定位人生坐标时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户感到自己是受害者时；当用户说"都是别人的错""我不好"时；当需要定位人生坐标时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 人生坐标定位器 🧭

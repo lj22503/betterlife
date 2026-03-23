@@ -1,10 +1,11 @@
 ---
 name: value-creator
 version: 1.0.0
-description: 价值创造器 - 精益财务和价值标尺
+description: ［何时使用］当用户需要价值创造器 - 精益财务和价值标尺时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 价值创造器 💎

@@ -1,6 +1,11 @@
 ---
 name: self-knowledge-builder
-description: ［何时使用］当用户想认识自己时；当用户说"我是谁""我想了解自己"时；当需要自我认知指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想认识自己时；当用户说"我是谁""我想了解自己"时；当需要自我认知指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 自我认知构建器 🪞

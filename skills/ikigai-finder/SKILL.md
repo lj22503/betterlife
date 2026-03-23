@@ -1,7 +1,12 @@
+---
 name: ikigai-finder
-description: ［何时使用］当用户需要人生意义发现器 - 找到你的 Ikigai (生存意义)时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要人生意义发现器 - 找到你的 Ikigai (生存意义)时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 人生意义发现器 🎯
 
 **基于自我认知与职业匹配理论**

@@ -1,7 +1,12 @@
+---
 name: longevity-lifestyle
-description: ［何时使用］当用户需要长寿生活方式 - 八项行为实现健康活到一百岁时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要长寿生活方式 - 八项行为实现健康活到一百岁时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 长寿生活方式 🌟
 
 **基于《健康长寿：延缓衰老的科学与行动》**

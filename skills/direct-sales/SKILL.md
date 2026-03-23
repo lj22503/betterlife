@@ -1,10 +1,11 @@
 ---
 name: direct-sales
 version: 1.0.0
-description: 直销模式设计器 - 定制 + 直销降低成本
+description: ［何时使用］当用户需要直销模式设计器 - 定制 + 直销降低成本时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 直销模式设计器 📦

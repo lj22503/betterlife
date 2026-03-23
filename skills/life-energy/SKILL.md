@@ -1,7 +1,12 @@
+---
 name: life-energy
-description: ［何时使用］当用户需要生命能量计算器 - 计算你的实际时薪和生命能量价值时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要生命能量计算器 - 计算你的实际时薪和生命能量价值时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 生命能量计算器 ⏰
 
 **基于《要钱还是要生活》（FIRE 运动经典）核心理念**

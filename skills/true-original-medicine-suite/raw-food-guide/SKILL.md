@@ -1,10 +1,11 @@
 ---
 name: raw-food-guide
 version: 1.0.0
-description: 生机饮食指南 - 活食材与健康饮食
+description: ［何时使用］当用户需要生机饮食指南 - 活食材与健康饮食时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 生机饮食指南 🥗

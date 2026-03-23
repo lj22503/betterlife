@@ -1,6 +1,11 @@
 ---
 name: attribution-style-trainer
-description: ［何时使用］当用户想训练归因风格时；当用户说"我想改变归因习惯""不会归因"时；当需要归因风格训练时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想训练归因风格时；当用户说"我想改变归因习惯""不会归因"时；当需要归因风格训练时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 归因风格训练器 🎯

@@ -1,6 +1,11 @@
 ---
 name: culture-builder
-description: ［何时使用］当用户想构建团队文化时；当用户说"文化构建器"时；当需要文化构建器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想构建团队文化时；当用户说"文化构建器"时；当需要文化构建器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 文化构建器 🌱

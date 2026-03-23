@@ -1,6 +1,11 @@
 ---
 name: sound-thought-meditation
-description: ［何时使用］当用户想进行声音和思想禅修时；当用户说"声音冥想""观察想法"时；当需要声音思想禅修引导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想进行声音和思想禅修时；当用户说"声音冥想""观察想法"时；当需要声音思想禅修引导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 声音和思想禅修器 🔊

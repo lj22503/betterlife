@@ -1,10 +1,11 @@
 ---
 name: global-entrepreneur
 version: 1.0.0
-description: 全球化创业者 —— 在全球寻找最优机会
+description: ［何时使用］当用户需要全球化创业者 —— 在全球寻找最优机会时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 全球化创业者 🌍

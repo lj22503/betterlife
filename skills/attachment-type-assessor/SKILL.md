@@ -1,6 +1,11 @@
 ---
 name: attachment-type-assessor
-description: ［何时使用］当用户想评估四种依恋类型：安全型/痴迷型/恐惧型/疏离型时；当用户说"依恋类型评估器"时；当需要依恋类型评估器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想评估四种依恋类型：安全型/痴迷型/恐惧型/疏离型时；当用户说"依恋类型评估器"时；当需要依恋类型评估器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 依恋类型评估器 🔗

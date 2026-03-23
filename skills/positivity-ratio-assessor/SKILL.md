@@ -1,6 +1,11 @@
 ---
 name: positivity-ratio-assessor
-description: ［何时使用］当用户想了解自己的积极率时；当用户说"我的积极率是多少""想测积极情绪"时；当需要积极率评估时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想了解自己的积极率时；当用户说"我的积极率是多少""想测积极情绪"时；当需要积极率评估时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 积极率评估器 📊

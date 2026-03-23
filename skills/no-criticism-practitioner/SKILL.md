@@ -1,6 +1,11 @@
 ---
 name: no-criticism-practitioner
-description: ［何时使用］当用户想不要批评，不要指责，不要抱怨时；当用户说"不批评实践器"时；当需要不批评实践器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想不要批评，不要指责，不要抱怨时；当用户说"不批评实践器"时；当需要不批评实践器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 不批评实践器 🚫

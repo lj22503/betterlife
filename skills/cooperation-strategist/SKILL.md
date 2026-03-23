@@ -1,6 +1,11 @@
 ---
 name: cooperation-strategist
-description: ［何时使用］当用户想什么时候合作，什么时候背叛时；当用户说"合作策略师"时；当需要合作策略师指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想什么时候合作，什么时候背叛时；当用户说"合作策略师"时；当需要合作策略师指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 合作策略师 🤝

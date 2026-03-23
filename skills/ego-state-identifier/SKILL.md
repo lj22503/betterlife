@@ -1,6 +1,11 @@
 ---
 name: ego-state-identifier
-description: ［何时使用］当用户感到痛苦纠结时；当用户说"我不在状态""情绪化"时；当需要识辨自我状态时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户感到痛苦纠结时；当用户说"我不在状态""情绪化"时；当需要识辨自我状态时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 自我状态识别器 🎭

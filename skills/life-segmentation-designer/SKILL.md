@@ -1,7 +1,12 @@
+---
 name: life-segmentation-designer
-description: ［何时使用］当用户需要人生分段设计师 - 将人生分为不同季节，分配体验时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要人生分段设计师 - 将人生分为不同季节，分配体验时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 人生分段设计师 📅
 
 **基于《最优解人生》（Die With Zero）核心理念**

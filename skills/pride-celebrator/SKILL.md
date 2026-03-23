@@ -1,6 +1,11 @@
 ---
 name: pride-celebrator
-description: ［何时使用］当用户想庆祝自豪情绪时；当用户说"想为自己自豪""庆祝成就"时；当需要自豪情绪指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想庆祝自豪情绪时；当用户说"想为自己自豪""庆祝成就"时；当需要自豪情绪指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 自豪情绪庆祝器 🏆

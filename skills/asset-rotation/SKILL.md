@@ -1,10 +1,11 @@
 ---
 name: asset-rotation
 version: 1.0.0
-description: 大类资产轮动器 - 美林投资时钟改良版
+description: ［何时使用］当用户需要大类资产轮动器 - 美林投资时钟改良版时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 大类资产轮动器 📊

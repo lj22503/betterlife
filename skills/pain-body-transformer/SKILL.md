@@ -1,6 +1,11 @@
 ---
 name: pain-body-transformer
-description: ［何时使用］当用户想转化痛苦之身时；当用户说"痛苦之身""摆脱痛苦"时；当需要痛苦之身转化指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想转化痛苦之身时；当用户说"痛苦之身""摆脱痛苦"时；当需要痛苦之身转化指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 痛苦之身转换器 🔄

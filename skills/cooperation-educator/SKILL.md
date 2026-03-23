@@ -1,6 +1,11 @@
 ---
 name: cooperation-educator
-description: ［何时使用］当用户想教人懂得回报的价值时；当用户说"合作教育者"时；当需要合作教育者指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想教人懂得回报的价值时；当用户说"合作教育者"时；当需要合作教育者指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 合作教育者 📚

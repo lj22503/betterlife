@@ -1,10 +1,11 @@
 ---
 name: self-discovery
 version: 1.0.0
-description: 自我认知三要素探索器 - 找到喜欢×擅长×重要的事
+description: ［何时使用］当用户需要自我认知三要素探索器 - 找到喜欢×擅长×重要的事时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 自我认知三要素探索器 🧭

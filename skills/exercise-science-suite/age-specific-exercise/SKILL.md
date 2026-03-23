@@ -1,10 +1,11 @@
 ---
 name: age-specific-exercise
 version: 1.0.0
-description: 分年龄段锻炼指南 - 全生命周期运动建议
+description: ［何时使用］当用户需要分年龄段锻炼指南 - 全生命周期运动建议时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 分年龄段锻炼指南 👶👴

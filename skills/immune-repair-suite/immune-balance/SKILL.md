@@ -1,7 +1,12 @@
+---
 name: immune-balance
-description: ［何时使用］当用户需要免疫系统平衡评估 - 自身免疫性疾病风险筛查时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要免疫系统平衡评估 - 自身免疫性疾病风险筛查时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 免疫系统平衡评估 🛡️
 
 **基于《免疫功能 90 天复原方案》**

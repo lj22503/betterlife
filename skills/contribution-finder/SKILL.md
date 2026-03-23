@@ -1,6 +1,11 @@
 ---
 name: contribution-finder
-description: ［何时使用］当用户感到没有价值时；当用户说"我没用""我对别人没贡献"时；当需要发现他者贡献时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户感到没有价值时；当用户说"我没用""我对别人没贡献"时；当需要发现他者贡献时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 他者贡献发现器 🎁

@@ -1,6 +1,11 @@
 ---
 name: rational-emotional-balancer
-description: ［何时使用］当用户理性感性失衡时；当用户说"我太理性了""我太情绪化"时；当需要平衡理性感性时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户理性感性失衡时；当用户说"我太理性了""我太情绪化"时；当需要平衡理性感性时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 理性感性平衡器 ⚖️

@@ -1,6 +1,11 @@
 ---
 name: enough-calculator
-description: ［何时使用］当用户想知道多少钱就够了时；当用户说"足够线计算器"时；当需要足够线计算器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想知道多少钱就够了时；当用户说"足够线计算器"时；当需要足够线计算器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 足够线计算器 ✅

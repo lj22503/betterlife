@@ -1,6 +1,11 @@
 ---
 name: adult-ego-activator
-description: ［何时使用］当用户想理性决策时；当用户说"我想冷静""不想情绪化"时；当需要激活成人自我时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想理性决策时；当用户说"我想冷静""不想情绪化"时；当需要激活成人自我时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 成人自我激活器 🧠

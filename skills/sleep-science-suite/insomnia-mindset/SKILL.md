@@ -1,10 +1,11 @@
 ---
 name: insomnia-mindset
 version: 1.0.0
-description: 失眠观念转变 - 接纳练习与心态调整
+description: ［何时使用］当用户需要失眠观念转变 - 接纳练习与心态调整时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 失眠观念转变 🧘

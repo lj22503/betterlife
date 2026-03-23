@@ -1,10 +1,11 @@
 ---
 name: circadian-rhythm
 version: 1.0.0
-description: 生物钟同步 - 光照/运动/进食时间管理
+description: ［何时使用］当用户需要生物钟同步 - 光照/运动/进食时间管理时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 生物钟同步 ⏰

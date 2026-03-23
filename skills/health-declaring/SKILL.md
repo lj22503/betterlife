@@ -1,10 +1,11 @@
 ---
 name: health-declaring
 version: 1.0.0
-description: 健康告知助手 - 汇总体检异常，辅助健康告知
+description: ［何时使用］当用户需要健康告知助手 - 汇总体检异常，辅助健康告知时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 健康告知助手 🏥

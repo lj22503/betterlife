@@ -1,7 +1,12 @@
+---
 name: omega-balance
-description: ［何时使用］当用户需要ω-3/ω-6 脂肪酸平衡 - 抗炎关键时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要ω-3/ω-6 脂肪酸平衡 - 抗炎关键时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # ω-3/ω-6 平衡 ⚖️
 
 **基于池谷敏郎《抗炎生活》**

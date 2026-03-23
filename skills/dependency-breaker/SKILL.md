@@ -1,6 +1,11 @@
 ---
 name: dependency-breaker
-description: ［何时使用］当用户想打破依赖时；当用户说"我依赖别人""想独立"时；当需要打破依赖关系时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想打破依赖时；当用户说"我依赖别人""想独立"时；当需要打破依赖关系时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 依赖关系打破器 🔓

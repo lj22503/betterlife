@@ -1,6 +1,11 @@
 ---
 name: rich-dad-mindset
-description: ［何时使用］当用户想为钱工作 vs 让钱为自己工作时；当用户说"富爸爸思维转换器"时；当需要富爸爸思维转换器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想为钱工作 vs 让钱为自己工作时；当用户说"富爸爸思维转换器"时；当需要富爸爸思维转换器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 富爸爸思维转换器 🧠

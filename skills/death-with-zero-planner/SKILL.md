@@ -1,7 +1,12 @@
+---
 name: death-with-zero-planner
-description: ［何时使用］当用户需要死前归零规划师 - 规划财富支出，实现死前归零时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要死前归零规划师 - 规划财富支出，实现死前归零时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 死前归零规划师 💰
 
 **基于《最优解人生》（Die With Zero）核心理念**

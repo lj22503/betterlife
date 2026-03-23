@@ -1,6 +1,11 @@
 ---
 name: life-harmony-balancer
-description: ［何时使用］当用户工作生活失衡时；当用户说"工作太忙""无暇顾家"时；当需要人生和谐指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户工作生活失衡时；当用户说"工作太忙""无暇顾家"时；当需要人生和谐指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 人生和谐平衡器 ⚖️

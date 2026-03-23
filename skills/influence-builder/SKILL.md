@@ -1,7 +1,12 @@
+---
 name: influence-builder
-description: ［何时使用］当用户需要影响力构建器 - 专家型人才如何扩展影响力时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要影响力构建器 - 专家型人才如何扩展影响力时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 影响力构建器 📣
 
 **基于《从总账到总监》《单干》核心理念**

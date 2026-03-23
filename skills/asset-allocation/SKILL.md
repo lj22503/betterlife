@@ -1,10 +1,11 @@
 ---
 name: asset-allocation
 version: 1.0.0
-description: 大类资产配置器 - 基于经济周期的大类资产配置建议
+description: ［何时使用］当用户需要大类资产配置器 - 基于经济周期的大类资产配置建议时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 大类资产配置器 📊

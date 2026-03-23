@@ -1,7 +1,12 @@
+---
 name: odyssey-plan
-description: ［何时使用］当用户需要奥德赛计划器 - 设计你的人生三个版本时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要奥德赛计划器 - 设计你的人生三个版本时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 奥德赛计划器 🗺️
 
 **基于《斯坦福大学人生设计课》核心理念**

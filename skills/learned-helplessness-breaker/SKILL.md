@@ -1,6 +1,11 @@
 ---
 name: learned-helplessness-breaker
-description: ［何时使用］当用户感到无助时；当用户说"做什么都没用""我放弃了"时；当需要打破习得性无助时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户感到无助时；当用户说"做什么都没用""我放弃了"时；当需要打破习得性无助时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 习得性无助打破器 🔨

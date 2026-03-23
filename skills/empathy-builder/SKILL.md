@@ -1,6 +1,11 @@
 ---
 name: empathy-builder
-description: ［何时使用］当用户想提升共情能力时；当用户说"无法理解别人""人际关系不好"时；当需要建立共情时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想提升共情能力时；当用户说"无法理解别人""人际关系不好"时；当需要建立共情时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 共情能力构建器 💗

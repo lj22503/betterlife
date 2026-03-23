@@ -1,6 +1,11 @@
 ---
 name: 8week-program
-description: ［何时使用］当用户想进行 8 周正念计划时；当用户说"8 周禅修""正念课程"时；当需要 8 周正念计划指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想进行 8 周正念计划时；当用户说"8 周禅修""正念课程"时；当需要 8 周正念计划指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 8 周正念计划器 📅

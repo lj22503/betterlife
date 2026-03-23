@@ -1,6 +1,11 @@
 ---
 name: work-flow-optimizer
-description: ［何时使用］当用户想工作中寻找心流时；当用户说"工作心流优化器"时；当需要工作心流优化器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想工作中寻找心流时；当用户说"工作心流优化器"时；当需要工作心流优化器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 工作心流优化器 💼

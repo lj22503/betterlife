@@ -1,10 +1,11 @@
 ---
 name: career-fuel
 version: 1.0.0
-description: 职场燃料评估器 - 评估和积累你的职场燃料
+description: ［何时使用］当用户需要职场燃料评估器 - 评估和积累你的职场燃料时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 职场燃料评估器 ⛽

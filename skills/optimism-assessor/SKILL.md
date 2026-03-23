@@ -1,6 +1,11 @@
 ---
 name: optimism-assessor
-description: ［何时使用］当用户想了解自己的乐观程度时；当用户说"我是不是太悲观了""想测试乐观水平"时；当需要乐观水平评估时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想了解自己的乐观程度时；当用户说"我是不是太悲观了""想测试乐观水平"时；当需要乐观水平评估时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 乐观水平评估器 🌞

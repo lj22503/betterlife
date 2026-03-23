@@ -1,6 +1,11 @@
 ---
 name: breathing-meditation
-description: ［何时使用］当用户想进行呼吸禅修时；当用户说"呼吸冥想""专注呼吸""正念呼吸"时；当需要呼吸禅修引导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想进行呼吸禅修时；当用户说"呼吸冥想""专注呼吸""正念呼吸"时；当需要呼吸禅修引导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 呼吸禅修引导器 🌬️

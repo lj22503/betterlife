@@ -1,10 +1,11 @@
 ---
 name: career-development
 version: 1.0.0
-description: 生涯发展阶段规划器 - 规划人生各阶段的生涯发展
+description: ［何时使用］当用户需要生涯发展阶段规划器 - 规划人生各阶段的生涯发展时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 生涯发展阶段规划器 📈

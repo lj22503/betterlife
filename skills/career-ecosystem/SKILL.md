@@ -1,10 +1,11 @@
 ---
 name: career-ecosystem
 version: 1.0.0
-description: 职业生态系统构建器 - 建立你的职业支持网络
+description: ［何时使用］当用户需要职业生态系统构建器 - 建立你的职业支持网络时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 职业生态系统构建器 🌐

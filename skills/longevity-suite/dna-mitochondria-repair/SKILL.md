@@ -1,7 +1,12 @@
+---
 name: dna-mitochondria-repair
-description: ［何时使用］当用户需要DNA 与线粒体修复 - 细胞能量与遗传完整性维护时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要DNA 与线粒体修复 - 细胞能量与遗传完整性维护时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # DNA 与线粒体修复 🧬
 
 **基于《健康长寿：延缓衰老的科学与行动》**

@@ -1,6 +1,11 @@
 ---
 name: improvisation-speaker
-description: ［何时使用］当用户想告别张口结舌时；当用户说"即兴发言器"时；当需要即兴发言器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想告别张口结舌时；当用户说"即兴发言器"时；当需要即兴发言器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 即兴发言器 🎤

@@ -1,10 +1,11 @@
 ---
 name: rat-race
 version: 1.0.0
-description: 老鼠赛跑逃脱器 - 从为钱工作到让钱为你工作
+description: ［何时使用］当用户需要老鼠赛跑逃脱器 - 从为钱工作到让钱为你工作时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 老鼠赛跑逃脱器 🐭

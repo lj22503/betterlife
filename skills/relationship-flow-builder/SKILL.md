@@ -1,6 +1,11 @@
 ---
 name: relationship-flow-builder
-description: ［何时使用］当用户想建立心流人际关系时；当用户说"人际心流构建器"时；当需要人际心流构建器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想建立心流人际关系时；当用户说"人际心流构建器"时；当需要人际心流构建器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 人际心流构建器 🤝

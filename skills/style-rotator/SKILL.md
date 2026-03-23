@@ -1,10 +1,11 @@
 ---
 name: style-rotator
 version: 1.0.0
-description: 风格轮动策略器 - 成长/价值/大盘/小盘轮动
+description: ［何时使用］当用户需要风格轮动策略器 - 成长/价值/大盘/小盘轮动时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 风格轮动策略器 🎭

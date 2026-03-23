@@ -1,6 +1,11 @@
 ---
 name: love-triangle-analyzer
-description: ［何时使用］当用户想分析爱情三要素：亲密/激情/承诺时；当用户说"爱情三角分析器"时；当需要爱情三角分析器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想分析爱情三要素：亲密/激情/承诺时；当用户说"爱情三角分析器"时；当需要爱情三角分析器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 爱情三角分析器 💗

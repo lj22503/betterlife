@@ -1,10 +1,11 @@
 ---
 name: colon-health
 version: 1.0.0
-description: 肠道健康方案 - 结肠影响整体健康
+description: ［何时使用］当用户需要肠道健康方案 - 结肠影响整体健康时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 肠道健康方案 🦠

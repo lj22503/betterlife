@@ -1,7 +1,12 @@
+---
 name: portfolio-builder
-description: ［何时使用］当用户需要投资组合构建器 - 经典组合策略配置时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要投资组合构建器 - 经典组合策略配置时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 投资组合构建器 📈
 
 **基于《回归投资常识》（齐俊杰）核心理念**

@@ -1,6 +1,11 @@
 ---
 name: relationship-matrix-analyzer
-description: ［何时使用］当用户想分析远近/影响力/制约三维度时；当用户说"人脉关系三维图分析器"时；当需要人脉关系三维图分析器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想分析远近/影响力/制约三维度时；当用户说"人脉关系三维图分析器"时；当需要人脉关系三维图分析器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 人脉关系三维图分析器 🗺️

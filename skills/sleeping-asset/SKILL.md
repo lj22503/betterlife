@@ -1,7 +1,12 @@
+---
 name: sleeping-asset
-description: ［何时使用］当用户需要沉睡资产唤醒器 - 盘点并变现沉睡资产时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要沉睡资产唤醒器 - 盘点并变现沉睡资产时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 沉睡资产唤醒器 💤
 
 **基于《理财就是理生活》核心理念**

@@ -1,5 +1,12 @@
+---
 name: identity-habits
-description: ［何时使用］当用户想培养习惯但缺乏动力、反复失败时；当用户需要从身份层面而非结果层面改变时；当用户说"我想成为 XX 样的人"时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想培养习惯但缺乏动力、反复失败时；当用户需要从身份层面而非结果层面改变时；当用户说"我想成为 XX 样的人"时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
+---
 related_skills: [habit-loop, two-minute-rule, habit-tracking]---
 
 # 身份认同习惯 🎭

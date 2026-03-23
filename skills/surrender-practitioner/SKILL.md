@@ -1,6 +1,11 @@
 ---
 name: surrender-practitioner
-description: ［何时使用］当用户想练习臣服时；当用户说"臣服""接受现实"时；当需要臣服实践指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想练习臣服时；当用户说"臣服""接受现实"时；当需要臣服实践指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 臣服实践器 🙏

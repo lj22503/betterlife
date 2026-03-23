@@ -1,10 +1,11 @@
 ---
 name: enough-calc
 version: 1.0.0
-description: "足够线计算器 - 计算你的财务自由数字和足够线"
+description: ［何时使用］当用户需要"足够线计算器 - 计算你的财务自由数字和足够线"时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-18
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 足够线计算器 🎯

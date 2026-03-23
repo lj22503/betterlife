@@ -1,6 +1,11 @@
 ---
 name: inner-body-connector
-description: ［何时使用］当用户想连接内在身体时；当用户说"内在身体""与身体联结"时；当需要内在身体连接指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想连接内在身体时；当用户说"内在身体""与身体联结"时；当需要内在身体连接指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 内在身体连接者 🦴

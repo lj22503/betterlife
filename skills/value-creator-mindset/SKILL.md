@@ -1,7 +1,12 @@
+---
 name: value-creator-mindset
-description: ［何时使用］当用户需要价值创造心法 - 从"我想要"到"我能给"的思维转变时；当用户提及相关功能时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户需要价值创造心法 - 从"我想要"到"我能给"的思维转变时；当用户提及相关功能时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
 skill_type: 通用---
-
+allowed-tools: [Bash, Read, Write, Exec]
+---
 # 价值创造心法 💎
 
 **基于《认知驱动：做成一件对他人很有用的事》核心理念**

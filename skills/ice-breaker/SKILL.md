@@ -1,6 +1,11 @@
 ---
 name: ice-breaker
-description: ［何时使用］当用户想双线卡位，让人印象深刻时；当用户说"破冰器"时；当需要破冰器指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想双线卡位，让人印象深刻时；当用户说"破冰器"时；当需要破冰器指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 破冰器 🧊

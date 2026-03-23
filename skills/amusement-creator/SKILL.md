@@ -1,6 +1,11 @@
 ---
 name: amusement-creator
-description: ［何时使用］当用户想创造逗趣情绪时；当用户说"想笑""想有趣"时；当需要逗趣情绪指导时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户想创造逗趣情绪时；当用户说"想笑""想有趣"时；当需要逗趣情绪指导时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 内部🟢
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 逗趣情绪创造器 😄

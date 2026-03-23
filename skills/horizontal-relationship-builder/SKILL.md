@@ -1,6 +1,11 @@
 ---
 name: horizontal-relationship-builder
-description: ［何时使用］当用户感到人际关系不平等时；当用户说"上下级关系""被操控"时；当需要建立横向关系时
+version: 1.0.0
+description: ［何时使用］当用户需要当用户感到人际关系不平等时；当用户说"上下级关系""被操控"时；当需要建立横向关系时时
+author: 燃冰 + 小蚂蚁
+created: 2026-03-19
+skill_type: 通用🟡
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 横向关系构建器 ⚖️

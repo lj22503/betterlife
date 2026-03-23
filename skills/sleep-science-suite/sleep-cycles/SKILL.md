@@ -1,10 +1,11 @@
 ---
 name: sleep-cycles
 version: 1.0.0
-description: 睡眠周期优化 - REM/NREM 周期管理
+description: ［何时使用］当用户需要睡眠周期优化 - REM/NREM 周期管理时
 author: 燃冰 + 小蚂蚁
 created: 2026-03-19
 skill_type: 通用
+allowed-tools: [Bash, Read, Write, Exec]
 ---
 
 # 睡眠周期优化 🌙
