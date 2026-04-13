@@ -417,7 +417,24 @@ cd betterlife
 
 ## 📄 许可证
 
-MIT License - 详见 [LICENSE](LICENSE)
+本项目采用 [MIT 许可证](LICENSE)。
+
+**Copyright (c) 2026 燃冰 (燃冰 & ant)**
+
+详见 [LICENSE](LICENSE) 文件。
+
+**简单来说：**
+- ✅ 你可以自由使用、修改、分发、商用
+- ✅ 需要保留原作者版权和许可证声明
+- ❌ 不提供任何担保，使用风险自负
+
+**合规声明：**
+- 本套件仅提供财商教育内容
+- 不替代专业投资建议
+- 所有内容基于公开出版的经典理财书籍
+- 学习有风险，实践需谨慎
+
+详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
 
